@@ -1,0 +1,10 @@
+scikit-learn version: 1.6.1
+pandas version: 2.2.2
+numpy version: 2.0.2
+matplotlib version: 3.10.0
+seaborn version: 0.13.2
+imblearn version: 0.13.0
+plotly version: 5.24.1
+statsmodels version: 0.14.4
+optuna version: 4.2.1
+pickle version: 4.0
